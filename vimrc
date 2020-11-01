@@ -1,1 +1,1 @@
-source .vimrc
+exec 'source ' expand('~\vimfiles') . '\.vimrc'
